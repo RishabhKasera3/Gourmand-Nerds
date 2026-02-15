@@ -1,4 +1,5 @@
 # 🍽️ Cravelecious
+👉 Live URL: https://galactic-crater.vercel.app
 
 ### AI-Powered Indian Food Taste Prediction Platform
 
